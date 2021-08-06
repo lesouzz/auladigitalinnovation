@@ -1,4 +1,4 @@
-package one.digitalinnovation.digionebank
+package one.digitalinnovation.digionebank.testes
 
 class Pessoa {
     var nome: String = "Léo"
